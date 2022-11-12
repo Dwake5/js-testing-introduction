@@ -25,7 +25,7 @@
     "jest": "^24.9.0",
     "puppeteer": "^1.19.0",
     "webpack": "^4.20.2",
-    "webpack-cli": "^3.1.2"
+    "webpack-cli": "^3.3.12"
   },
   "repository": "https://github.com/Dwake5/js-testing-introduction.git"
 }
